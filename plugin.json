@@ -1,0 +1,10 @@
+{
+  "id": "com.mattermost.latex-plugin",
+  "name": "LaTeX Plugin",
+  "description": "This plugin adds LaTeX support.",
+  "version": "0.0.1",
+  "min_server_version": "5.12.0",
+  "webapp": {
+    "bundle_path": "webapp/dist/main.js"
+  }
+}
