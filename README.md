@@ -2,6 +2,10 @@
 
 This plugin allows you to use LaTeX markdown on your Mattermost server.
 
+![image](https://user-images.githubusercontent.com/45372453/59980669-53fd1100-95f9-11e9-8785-ec0f28192974.png)
+
+![image](https://user-images.githubusercontent.com/45372453/59980646-15ffed00-95f9-11e9-90ec-8c083fe7536a.png)
+
 **Supported Mattermost Server Versions: 5.2+**
 
 ## Installation
